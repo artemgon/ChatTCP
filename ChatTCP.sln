@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_TCP_Client", "WPF_TCP_Client\WPF_TCP_Client.csproj", "{65D365C7-5615-4367-8857-48E1AC4A17BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{BDB69E2B-C89A-429B-9789-AAD7F33633D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{65D365C7-5615-4367-8857-48E1AC4A17BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D365C7-5615-4367-8857-48E1AC4A17BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D365C7-5615-4367-8857-48E1AC4A17BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB69E2B-C89A-429B-9789-AAD7F33633D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB69E2B-C89A-429B-9789-AAD7F33633D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB69E2B-C89A-429B-9789-AAD7F33633D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB69E2B-C89A-429B-9789-AAD7F33633D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
